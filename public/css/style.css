@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #ADA996;
+    background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
+    background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #e7e7e7);
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:focus,
+.navbar-light navbar-brand:hover {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: #ffff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.bg-blue {
+    background-color: #6CB2EB;
+}
+
+#btnMt {
+    margin-top: 5px;
+}
+
+
+.card-body {
+
+    color: #212529;
+}
+
+.navbar-laravel {
+    background: #32167c;
+    background: -webkit-linear-gradient(to right, #876db3, #7b98b5, #678db3);
+    background: linear-gradient(to right, #678db3, #7b98b5, #678db3);
+    -webkit-box-shadow: 0 2px 4px #32167c;
+    box-shadow: #32167c;
+}
+
+#judul,
+#isi {
+    color: black;
+}
+
+.alert-succes {
+    color: #ffffff;
+    background-color: blue;
+    border-color: blue;
+}
+
+.navbar-light .navbar-nav .navbar-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(200, 198, 186);
+}
+
+#jumbotron_index {
+    background: #678db3;
+    background-color: #6CB2EB;
+    box-shadow: 0px 5px 10px #888888;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    color: #f8fafc;
+}
+
+.btn-warning {
+    color: #ffffff;
+    background-color: #ffc107;
+
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #f8fafc;
+}
